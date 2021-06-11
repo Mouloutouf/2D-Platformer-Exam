@@ -1,5 +1,8 @@
 2D Platformer Exam Round II :
 
+Small Platformer Game made in 6 hours (actually 7 for bug fixing),
+in which I had to recreate a custom Rigidbody with collisions, physics and gravity.
+
 Controls :
 
 Q / D -> Movement
